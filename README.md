@@ -10,3 +10,9 @@ The parts listed below I got form DigiKey, except for the RPi header socket, whi
 - D1: Panasonic DB3X209K0L
 - R1: Vishay Dale CRCW1206100KJNEA
 - J2: [JST](https://en.wikipedia.org/wiki/JST_connector) B2B-XH-AM(LF)(SN)
+
+----
+The `fancontrol.py` script can be started by:
+```
+python fancontrol.py start
+```
