@@ -1,8 +1,10 @@
 # RPi PWM Fan Interface
 
-I made this tiny board to use as an interface between an [Orange Pi Plus](http://www.orangepi.org/) (which can get quite hot) and a [little fan](https://smile.amazon.com/gp/product/B00EL938E6/). I'm also using as large a [heatsink](https://smile.amazon.com/gp/product/B01KNV1WMK/) I could find & fit into the available space, which nicely also makes contact with the RAM chips.
+I made this tiny board to use as an interface between an [Orange Pi Plus](http://www.orangepi.org/) and a [little fan](https://smile.amazon.com/gp/product/B00EL938E6/). I'm also using as large a [heatsink](https://smile.amazon.com/gp/product/B01KNV1WMK/) I could find & fit into the available space, which nicely also makes contact with the RAM chips.
 
 The circuit I used is [here](http://elinux.org/RPi_GPIO_Interface_Circuits#Using_a_FET).
+
+This board can be fabricated for US$1/each (3 board min order) by OSH Park [shared project](https://oshpark.com/shared_projects/PPTmLUcN).
 
 The parts listed below I got form DigiKey, except for the RPi header socket, which also came from Amazon (as I neglected to include it in the DigiKey order). The best fit I could find on Amazon is an [18-pin stackable header socket](https://smile.amazon.com/gp/product/B00QZXRB2G/).
 
